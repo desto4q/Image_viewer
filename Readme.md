@@ -27,9 +27,9 @@ Virtualenv Venv .
 ```
 
 
-![Myimage](./Images/image.png)
+![Myimage]([./Images/image.png](https://github.com/desto4q/Image_viewer/blob/main/Images/Image.png?raw=true))
 
 
 Else Run __Imageviewer.exe__
 
-## [Portfolio](https://github.com/desto4q/Image_viewer/blob/main/Images/Image.png?raw=true)
+## [Portfolio](https://illumi-code.netlify.app/)
