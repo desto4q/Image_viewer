@@ -27,7 +27,7 @@ Virtualenv Venv .
 ```
 
 
-![Myimage]([./Images/image.png](https://github.com/desto4q/Image_viewer/blob/main/Images/Image.png?raw=true))
+![Myimage](./Images/image.png](https://github.com/desto4q/Image_viewer/blob/main/Images/Image.png?raw=true)
 
 
 Else Run __Imageviewer.exe__
